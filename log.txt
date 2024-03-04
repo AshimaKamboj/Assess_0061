@@ -1,0 +1,500 @@
+   77  git push -u origin master
+   78  git --version
+   79  git config --global user.name "AshimaKamboj"
+   80  git config --global user.email "ashimakamboj27@gmail.com"
+   81  git config user.name
+   82  git config user.email
+   83  pwd
+   84  cd ..
+   85  cd ..
+   86  cd project2
+   87  cd sub2
+   88  vi hello.py
+   89  git add hello.py
+   90  git commit -m "created a python file in sub2"
+   91  git log
+   92  clear
+   93  git branch
+   94  git branch new-branch
+   95  git branch
+   96  git checkout new-branch
+   97  vi hello.py
+   98  git add hello.py
+   99  git commit -m "i added a new line in my python file"
+  100  git log
+  101  ls
+  102  ls -l
+  103  ls -ah
+  104  pwd
+  105  cd ..
+  106  cd ..
+  107  cd project2
+  108  cd sub2
+  109  branch checkout master
+  110  git branch
+  111  git checkout master
+  112  cd
+  113  ls
+  114  ls -ah
+  115  clear
+  116  ls
+  117  pwd
+  118  cd ..
+  119  cd ..
+  120  cd ..
+  121  cd project2
+  122  cd c
+  123  cd project2
+  124  cd sub2
+  125  ls 
+  126  ls -ah
+  127  pwd
+  128  cd /
+  129  ls
+  130  cd usr
+  131  ls
+  132  cd ..
+  133  cd c
+  134  cd project2
+  135  ls
+  136  cd sub2
+  137  ls
+  138  cd ..
+  139  cd ..
+  140  cd sub2
+  141  cd project2/sub2
+  142  cd ..
+  143  cd ..
+  144  mkdir project2/16_feb_g1
+  145  cd ..
+  146  cd c
+  147  cd project2
+  148  ls
+  149  cd 16
+  150  cd 16_feb_g1
+  151  mkdir c:/project_3
+  152  cd..
+  153  cd ..
+  154  cd ..
+  155  ls
+  156  cd project2/sub2
+  157  ls
+  158  cat hello.c
+  159  touch first.html
+  160  ls
+  161  history ->
+  162  history 
+  163  cat first.html
+  164  touch log.txt
+  165  ls
+  166  history ->log.txt
+  167  history > log.txt
+  168  cat log.txt
+  169  vi log.txt
+  170  vi hello.c
+  171  git add hello.c
+  172  git commit -m "Added a line"
+  173  git log --oneline
+  174  cd project2
+  175  cd ..
+  176  l
+  177  la
+  178  ls
+  179  cd 16_feb_G1
+  180  cd 16_feb_g1
+  181  cd ..
+  182  cd 16_feb_g1
+  183  git status
+  184  vi hello.txt
+  185  git status
+  186  git init
+  187  git status
+  188  git add hello.txt
+  189  git status
+  190  git commit -m "created and added word hello"
+  191  pwd
+  192  cd ..
+  193  cd ..
+  194  cd git
+  195  clear
+  196  pwd
+  197  cd git_assignment
+  198  cd git
+  199  ls
+  200  cd git_1
+  201  ls
+  202  cd ..
+  203  cd git_lab_14feb
+  204  ls
+  205  cd 1
+  206  ls
+  207  vi sum.py
+  208  git add sum.py
+  209  git commit -m "created a python file in 1 folder"
+  210  git log
+  211  git branch
+  212  git checkout 14feb
+  213  vi sum.py
+  214  git add sum.py
+  215  git commit -m "added a file in 14 branch file"
+  216  git log
+  217  git checkout new_14feb
+  218  vi sum.py
+  219  git add sum.py
+  220  git commit -m "adding a new file in new_14feb branch"
+  221  vi sum.py
+  222  git add sum.py
+  223  git commit -m "added a new line "
+  224  git log
+  225  git checkout 14feb
+  226  git log
+  227  vi sum.py
+  228  git add sum.py
+  229  git commit -m "added two more things"
+  230  git log 
+  231  cd ..
+  232  cd test
+  233  git log
+  234  git checkout master
+  235  git log oneline
+  236  git log
+  237  git origin
+  238  git add remote origin https://github.com/AshimaKamboj/new_14feb.git
+  239  git remote add origin https://github.com/AshimaKamboj/new
+  240  git remote add origin https://github.com/AshimaKamboj/new_14feb.git
+  241  git remote add origin https://github.com/Ashimakamboj/test.git
+  242  git push -u origin master
+  243  cd ..
+  244  cd 1
+  245  vi sum.py
+  246  git add sum.py
+  247  git commit -m "added a new line in my program"
+  248  git log o
+  249  git log
+  250  git push -u origin master
+  251  git checkout 14feb
+  252  git push -u origin 14feb
+  253  vi sum.c
+  254  git add sum.c
+  255  git commit -m "created a sum.c file"
+  256  vi sum.c
+  257  git add sum.c
+  258  git commit -m "added a line at end of program"
+  259  git lo
+  260  git log
+  261  git push -u origin 14feb
+  262  git checkout master
+  263  git push -u origin master
+  264  pwd
+  265  cd ..
+  266  cd ..
+  267  mkdir 21feb
+  268  cd 21feb
+  269  git status
+  270  git init
+  271  vi hello.txt
+  272  cat hello.txt
+  273  vi hello.c
+  274  cat hello.c
+  275  vi hello.c
+  276  cat hello.c
+  277  git status
+  278  git add .
+  279  git status
+  280  git commit -m "commit on master"
+  281  vi hello.txt
+  282  git status
+  283  git aff hello.txt
+  284  git add hello.txt
+  285  git status
+  286  git commit -m "added a line in hello.txt"
+  287  git log --oneline
+  288  vi hello.c
+  289  git status
+  290  git add hello.c
+  291  git commit -m "added a second line in hello.c"
+  292  git log --oneline
+  293  git branch test
+  294  git checkout test
+  295  cat hello.c
+  296  vi hello.c
+  297  git add hello.c
+  298  git commit -m "added function definition hello.c"
+  299  git log --oneline
+  300  cat hello.c
+  301  git checkout master
+  302  cat hello.c
+  303  git branch dev
+  304  git checkout dev
+  305  cat hello.c
+  306  cat hello.txt
+  307  git log --oneline
+  308  vi hello.c
+  309  git status
+  310  git add hello.c
+  311  git commit -m "added comment after pre processive directive"
+  312  cat hello.c
+  313  git checkout master
+  314  vi .gitignore
+  315  git commit -m "gitignore initiated"
+  316  git add .
+  317  git commit -m "gitignore initiated"
+  318  vi hello.py
+  319  git status
+  320  vi .gitignore
+  321  git add .
+  322  git commit -m "git ignore inititiated"
+  323  vi hello.py
+  324  git status
+  325  git checkout test
+  326  git checkout master
+  327  cd ..
+  328  cd ..
+  329  mkdir 23feb
+  330  cd 23feb
+  331  git imit
+  332  git init
+  333  vi hello.txt
+  334  git add .
+  335  git commit -m "first commit"
+  336  vi hello.txt
+  337  git add .
+  338  git commit -m "second line in master"
+  339  git log --oneline
+  340  git checkout dev1
+  341  git branch
+  342  git branch dev1
+  343  git checkout dev1
+  344  cat hello.txt
+  345  vi hello.txt
+  346  git add .
+  347  git commit -m "first commit in dev1"
+  348  git commit --oneline
+  349  vi hello.txt
+  350  git add .
+  351  git commit -m "second commit in dev1"
+  352  cat hello.txt
+  353  git checkout master
+  354  cat hello.txt
+  355  git checkout dev1
+  356  git branch dev2
+  357  git checkout dev2
+  358  git log --oneline
+  359  vi hello.txt
+  360  git add .
+  361  git commit -m "added first commit in dev2, line 5 added"
+  362  cat hello.txt
+  363  git checkout dev1
+  364  git merge dev2 dev1
+  365  git status
+  366  git log --oneline
+  367  git checkout master
+  368  git log --oneline
+  369  vi hello.txt
+  370  git add .
+  371  git commit -m "added third line on branch master"
+  372  git log --oneline
+  373  git checkout dev2
+  374  git merge master dev2
+  375  git mergetoo}
+  376  git mergetool
+  377  git status
+  378  git add .
+  379  git commit -m "conflict resolved"
+  380  git log --oneline
+  381  cd ..
+  382  cd ..
+  383  cd 23feb
+  384  git log --oneline
+  385  cd ..
+  386  cd ..
+  387  cd c
+  388  mkdir gitmerge
+  389  cd gitmerge
+  390  init gitmerge
+  391  git init gitmerge
+  392  git init
+  393  mkdir code.c
+  394  clear
+  395  cd..
+  396  cd ..
+  397  mkdir git_merge
+  398  cd git_merge
+  399  git init
+  400  vi code.c
+  401  git branch case1
+  402  git checkout case1
+  403  git branch
+  404  git add .
+  405  git commit -m "created code.c"
+  406  git branch case1
+  407  git checkout case1
+  408  git checkout master
+  409  vi code.c
+  410  git add .
+  411  git commit -m "added body to code.c"
+  412  git log --oneline
+  413  vi code.c
+  414  git add .
+  415  git commit -m "added brackets after switch in code"
+  416  cat code.c
+  417  git branch case_A
+  418  git checkout case_A
+  419  cat code.c
+  420  vi code.c
+  421  git add .
+  422  git commit -m "added two cases in branch case_A"
+  423  git checkout master
+  424  git brach case_b
+  425  git branch case_b
+  426  git checkout case_A
+  427  git branch case_B
+  428  git branch case2
+  429  git checkout case2
+  430  vi code.c
+  431  cat code.c
+  432  git checkout case_A
+  433  git merge case_A case2
+  434  git checkout case2
+  435  git add .
+  436  git commit -m "completed the coe"
+  437  git log --oneline
+  438  git checkout case_A
+  439  git merge case_A case2
+  440  git log --oneline
+  441  cat code.c
+  442  git status
+  443  PWD
+  444  cd ..
+  445  cd ..
+  446  cd git
+  447  ls
+  448  cd git_assignment
+  449  ls
+  450  cd git
+  451  ls
+  452  cd git_lab_14feb
+  453  ls
+  454  cd 1
+  455  ls
+  456  cd ..
+  457  cd test
+  458  ls
+  459  cat test.c
+  460  cd ..
+  461  cd 1
+  462  git remote add origin https://github.com/AshimaKamboj/1.git
+  463  git push -u origin master
+  464  ls
+  465  cat sum.py
+  466  vi .gitignore
+  467  git add .
+  468  git commit -m "git ignore initiated"
+  469  vi yeah.txt
+  470  git status
+  471  https://www.msn.com/en-in/entertainment/tv/can-t-be-dictated-taiwan-hits-back-at-china-after-indian-tv-channel-rebuke-over-fm-joseph-wu-interview/ar-BB1jf5cG?cvid=482039ddada34eb89cefc8a0b00002b7vi
+  472  vi ohh.c
+  473  git status
+  474  cd ..
+  475  pwd
+  476  cd ..
+  477  cd ..
+  478  ls
+  479  cd project2
+  480  ls
+  481  cd sub1
+  482  git origin
+  483  git remote
+  484  git remote add origin https://github.com/AshimaKamboj/sub1.git
+  485  ls
+  486  cd .
+  487  cd ..
+  488  cd sub2
+  489  ls
+  490  git remote add origin https://github.com/AshimaKamboj/sub1.git
+  491  git push -u origin master
+  492  git branch
+  493  git chekout dev1
+  494  git checkout dev1
+  495  ls
+  496  git remote add dev1 https://github.com/AshimaKamboj/sub1.git
+  497  git push -u dev1 dev1
+  498  pwd
+  499  cd ..
+  500  cd ..
+  501  mkdir Assess_0061
+  502  pwd
+  503  cd Assess_0061
+  504  pwd
+  505  mkdir img
+  506  ls
+  507  git init 
+  508  vi file.c
+  509  vi file.txt
+  510  vi file.html
+  511  vi file.jpg
+  512  vi file.c
+  513  vi file.txt
+  514  vi file.html
+  515  git add file.c file.txt file.html
+  516  git commit -m "this is my first commit - changed all three files"
+  517  vi file.c
+  518  git add file.c
+  519  git commit -m "this is my second commit - changed c file"
+  520  vi file.txt
+  521  vi file.html
+  522  git add file.txt file.html
+  523  git commit -m "this is my third commit - changed  text and html file"
+  524  git log --oneline
+  525  git remote
+  526  git origin
+  527  git remote add origin https://github.com/AshimaKamboj/Assess_0061.git
+  528  git push -u origin master
+  529  ls
+  530  cd img
+  531  pwd
+  532  vi .gitignore
+  533  git add .
+  534  git commit -m "initiated git ignore"
+  535  vi hy.c
+  536  git status
+  537  git log --oneline
+  538  cd ..
+  539  vi .gitignore
+  540  git statu
+  541  git status
+  542  git add .gitignore
+  543  git commit -m " gitignore for image file"
+  544  git status
+  545  cp -r * /c/Access_0061/img
+  546  cp -r /c/Assess_0061. /c/Assess_0061/img
+  547  ls
+  548  cp -r Assess_0061/. img/ 
+  549  cp -r /c/Assess_0061/. img/
+  550  cp -r /c/Assess_0061/. img
+  551  cd img
+  552  ls
+  553  cd ..
+  554  ls
+  555  cd img
+  556  ls
+  557  vi file.c
+  558  vi file.txt
+  559  vi file.html
+  560  git status
+  561  git add.
+  562  git add .
+  563  git commit -m "changes made"
+  564  git status
+  565  git log --oneline
+  566  cd ..
+  567  ls
+  568  git log --oneline
+  569  vi file.jpg
+  570  cp Screenshot(331).png file.png
+  571  cp Screenshot (331).png file.png
+  572  cd screenshot (331).png file.png
+  573  cp "Screenshot (331).png" file.jpg
+  574  history
+  575  touch log.txt
+  576  history > log.txt
